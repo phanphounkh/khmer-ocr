@@ -1,0 +1,6 @@
+{
+  "url": "http://127.0.0.1:8000/ocr",
+  "token_env": "SORYA_OCR_TOKEN",
+  "timeout_seconds": 180,
+  "prompt": "Transcribe the page in reading order. Return plain text only."
+}

@@ -1,0 +1,5 @@
+# Evaluation dependencies from the inspected upstream pins. GPU stack is optional.
+datasets==5.1.0
+pillow==12.3.0
+khmer-nlp-toolkits==0.2.2
+python-Levenshtein==0.27.3

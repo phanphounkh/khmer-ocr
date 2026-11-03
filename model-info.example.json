@@ -1,0 +1,11 @@
+{
+  "name": "SORYA-AI",
+  "revision": "REPLACE_WITH_IMMUTABLE_MODEL_OR_SERVICE_VERSION",
+  "training_data_exposure": "unknown; document any Sala textbook or gold-test exposure",
+  "generation_settings": {
+    "prompt": "Transcribe the page in reading order. Return plain text only.",
+    "temperature": 0,
+    "max_output_tokens": "REPLACE_WITH_ACTUAL_LIMIT"
+  },
+  "notes": "Descriptive metadata only: these settings must also be configured in the adapter/server. Record truncation limits, model weights, runtime seed, quantization and adapter revisions."
+}
